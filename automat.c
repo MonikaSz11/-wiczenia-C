@@ -212,12 +212,8 @@ if (reszta==0)
 else
 	printf("UWAGA! Automat nie posiada wystarczajacej ilosci monet\n");
 
-
 }
 
-
-
-
-
+	
 return 0;
 }
